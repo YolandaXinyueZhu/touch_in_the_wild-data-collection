@@ -1,6 +1,6 @@
 # Touch in the Wild: Learning Fine‑Grained Manipulation with a Portable Visuo‑Tactile Gripper
 
-[Project page](https://binghao-huang.github.io/touch_in_the_wild/) | [Paper](https://binghao-huang.github.io/touch_in_the_wild/) | 
+[Project page](https://binghao-huang.github.io/touch_in_the_wild/) | [Paper](https://binghao-huang.github.io/touch_in_the_wild/) 
 
 <img width="90%" src="assets/system.png" alt="System image"/>
 
