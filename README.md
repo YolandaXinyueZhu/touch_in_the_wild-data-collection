@@ -43,7 +43,7 @@ Linux assigns FTDI adapters to `/dev/ttyUSB*` in detection order. After a reboot
 3. **Read the adapter’s serial number**
 
    ```bash
-   udevadm info --name=/dev/ttyUSB0 --attribute-walk | grep serial | head -1
+   udevadm info -a -n /dev/ttyUSB0 | grep -E "ATTRS?\{serial\}|ID_SERIAL"
    # → AQ01L3KE  (example)
    ```
 4. **Create or edit** `/etc/udev/rules.d/99-tactile.rules` and add:
