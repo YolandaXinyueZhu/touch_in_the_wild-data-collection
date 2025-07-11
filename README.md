@@ -90,8 +90,8 @@ Tested on **Ubuntu 22.04**.
 
    ```bash
    # Example: make a workspace in your home directory
-   mkdir -p ~/ros_ws/src
-   cd ~/ros_ws/src
+   mkdir -p ~/ros_ws
+   cd ~/ros_ws
    git clone https://github.com/<your-org>/touch_in_the_wild_tactile.git
    cd ~/ros_ws
    ```
