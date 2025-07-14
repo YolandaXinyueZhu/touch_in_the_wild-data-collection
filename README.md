@@ -139,7 +139,7 @@ Tested on **Ubuntu 22.04**.
 
 > **Why the QR node is mandatory:** GoPro 9 does not embed reliable timestamps. The QR timestamp + black‑frame marker is a hardware‑free method that allows sub‑frame alignment between tactile and video streams.
 
-Refer to [Touch in the Wild](https://github.com/YolandaXinyueZhu/TactileUMI_base) for SLAM pipeline setup.
+Refer to [Touch in the Wild](https://github.com/YolandaXinyueZhu/touch_in_the_wild) for SLAM pipeline setup.
 
 
 ## <a id="trouble"></a>❓ Troubleshooting
