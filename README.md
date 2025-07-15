@@ -1,4 +1,4 @@
-# Touch in the Wild: Learning Fine‑Grained Manipulation with a Portable Visuo‑Tactile Gripper
+# Tactile Hardware Code and Data Collection
 
 [Project page](https://binghao-huang.github.io/touch_in_the_wild/) | [Paper](https://binghao-huang.github.io/touch_in_the_wild/) 
 
@@ -22,7 +22,9 @@
 
 ## <a id="hardware"></a>🔧 Tactile Hardware
 
-To build two tactile sensors (“**right\_finger**” & “**left\_finger**”), follow the [Hardware Assembly Tutorial](https://docs.google.com/document/d/1XGyn-iV_wzRmcMIsyS3kwcrjxbnvblZAyigwbzDsX-E/edit?tab=t.0#heading=h.ny8zu0pq9mxy).
+We open to request a sample for our tactile hardware [FlexiTac](https://flexitac.github.io/)
+
+You can also use previous version tactile to build two tactile sensors (“**right\_finger**” & “**left\_finger**”), follow the [Hardware Assembly Tutorial](https://docs.google.com/document/d/1XGyn-iV_wzRmcMIsyS3kwcrjxbnvblZAyigwbzDsX-E/edit?tab=t.0#heading=h.ny8zu0pq9mxy).
 
 For Python & ROS 1 code, see [3D‑ViTac\_Tactile\_Hardware](https://github.com/binghao-huang/3D-ViTac_Tactile_Hardware).
 
@@ -154,7 +156,12 @@ Refer to [Touch in the Wild](https://github.com/YolandaXinyueZhu/touch_in_the_wi
 
 Open an issue if you encounter anything not covered here—screenshots & logs help us help you 🙂
 
+## <a id="ackowledgement"></a>🏷️ Acknowledgement
+
+This hardware codebase build upon [3D‑ViTac\_Tactile\_Hardware](https://github.com/binghao-huang/3D-ViTac_Tactile_Hardware).
 
 ## <a id="license"></a>🏷️ License
 
 Code and documentation are released under the MIT License.
+
+
