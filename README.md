@@ -162,6 +162,6 @@ This hardware codebase build upon [3D‑ViTac\_Tactile\_Hardware](https://github
 
 ## <a id="license"></a>🏷️ License
 
-Code and documentation are released under the MIT License.
+FlexiTac © 2025 by Columbia University is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
 
