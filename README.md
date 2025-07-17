@@ -18,7 +18,8 @@
 2. [Persistent Port Naming](#udev)
 3. [ROS 2 Setup](#ros)
 4. [Data Collection Protocol](#protocol)
-5. [Troubleshooting](#trouble)  |  [License](#license)
+5. [Troubleshooting](#trouble)
+6. [License](#license)
 
 ## <a id="hardware"></a>🔧 Tactile Hardware
 
