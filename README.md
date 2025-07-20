@@ -23,9 +23,9 @@
 
 ## <a id="hardware"></a>🔧 Tactile Hardware
 
-We open to request a sample for our tactile hardware [FlexiTac](https://flexitac.github.io/)
+You’re welcome to request a sample of our tactile hardware, [FlexiTac](https://flexitac.github.io/).
 
-You can also use previous version tactile to build two tactile sensors (“**right\_finger**” & “**left\_finger**”), follow the [Hardware Assembly Tutorial](https://docs.google.com/document/d/1XGyn-iV_wzRmcMIsyS3kwcrjxbnvblZAyigwbzDsX-E/edit?tab=t.0#heading=h.ny8zu0pq9mxy).
+Alternatively, you can use the previous version of the hardware to build two tactile sensors (“right_finger” and “left_finger”) by following the [Hardware Assembly Tutorial](https://docs.google.com/document/d/1XGyn-iV_wzRmcMIsyS3kwcrjxbnvblZAyigwbzDsX-E/edit?tab=t.0#heading=h.ny8zu0pq9mxy).
 
 For Python & ROS 1 code, see [3D‑ViTac\_Tactile\_Hardware](https://github.com/binghao-huang/3D-ViTac_Tactile_Hardware).
 
