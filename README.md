@@ -14,14 +14,16 @@
 
 ## 📑 Quick Outline
 
-1. [Tactile Hardware](#hardware)
+1. [Gripper & Tactile Hardware](#hardware)  
 2. [Persistent Port Naming](#udev)
 3. [ROS 2 Setup](#ros)
 4. [Data Collection Protocol](#protocol)
 5. [Troubleshooting](#trouble)
 6. [License](#license)
 
-## <a id="hardware"></a>🔧 Tactile Hardware
+## <a id="hardware"></a>🔧 Gripper & Tactile Hardware
+
+To build the visuo-tactile gripper, follow this guide: [Visuo-Tactile Gripper Guide](https://docs.google.com/document/d/1Gxd2PzVo-sH_XbvnVw_r3eI5i3I3t0rr7JdhpN1PJMA/edit?tab=t.0#heading=h.w30qb8tzs5g5)  
 
 You’re welcome to request a sample of our tactile hardware, [FlexiTac](https://flexitac.github.io/).
 
